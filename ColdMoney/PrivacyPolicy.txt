@@ -1,6 +1,6 @@
----Privacy Policy---
+﻿---Privacy Policy---
 
-Bevalstudio built the GoldMoney app as
+Bevalstudio built the ColdMoney app as
 a Free app. This SERVICE is provided by bevalstudio
 at no cost and is intended for use as is.
 
@@ -17,7 +17,7 @@ anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings
 as in our Terms and Conditions, which is accessible at
-GMoney unless otherwise defined in this Privacy Policy
+CMoney unless otherwise defined in this Privacy Policy
 
 --Information Collection and Use--
 For a better experience, while using our Service, I
